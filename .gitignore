@@ -1,0 +1,7 @@
+.DS_Store
+.env.local
+Thumbs.db
+*.log
+node_modules/
+.idea/
+.vscode/settings.json
